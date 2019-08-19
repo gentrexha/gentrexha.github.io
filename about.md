@@ -6,6 +6,15 @@ permalink: /about/
 ## Experience
 
 <div class="row">
+<div class="col-md-8" markdown="1">
+Some text.
+</div>
+<div class="col-md-4" markdown="1">
+Some other text.
+</div>
+</div>
+
+<div class="row">
 <div class="col-md-3">
 Jul 2019 – Present
 Vienna, Austria
