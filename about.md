@@ -6,23 +6,21 @@ permalink: /about/
 ## Experience
 
 <div class="left">
-<p>Some explanation goes here</p>
-<p>Another example...</p>
+<p>Jul 2019 – Present
+Vienna, Austria</p>
 </div>
 <div class="right">
-<pre> // some code goes here </pre>
-<pre> // more example code goes here </pre>
+<p>Siemens
+Data Scientist - Working Student</p>
 </div>
 
-<div class="row">
-<div class="col-md-3">
-Jul 2019 – Present
-Vienna, Austria
+<div class="left">
+<p>Jul 2019 – Present</p>
+<p>Vienna, Austria</p>
 </div>
-<div class="col-md-9">
-Siemens
-Data Scientist - Working Student
-</div>
+<div class="right">
+<p>Siemens</p>
+<p>Data Scientist - Working Student</p>
 </div>
 
 LernQuadrat
