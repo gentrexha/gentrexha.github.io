@@ -10,5 +10,3 @@ Hit me up with an email at [gent.rexha@gmail.com](mailto:gent.rexha@gmail.com) o
 - [twitter/gentrexha_](http://twitter.com/RexhaGent)
 - [github/gentrexha](https://github.com/gentrexha)
 - [bitbucket/gentrexha](https://bitbucket.org/gentrexha)
-
-[Go to the Home Page](./)
