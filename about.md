@@ -5,51 +5,13 @@ permalink: /about/
 ---
 ## Experience
 
-<div class="left">
-<p>Jul 2019 – Present</p>
-</div>
-<div class="right">
-<p>Data Scientist - Working Student at Siemens</p>
-</div>
-
-<div class="left">
-<p>Dec 2018 – June 2019</p>
-</div>
-<div class="right">
-<p>Private Tutor at LernQuadrat</p>
-</div>
-
-<div class="left">
-<p>Apr 2017 – Feb 2018</p>
-</div>
-<div class="right">
-<p>Co-Founder at Grasslever</p>
-</div>
-
-<div class="left">
-<p>Jul 2014 – Sep 2014</p>
-</div>
-<div class="right">
-<p>Intern at pbc Kosova</p>
-</div>
+| Jul 2019 – Present  	| Data Scientist (Working Student) at Siemens 	|
+|---------------------	|---------------------------------------------	|
+| Dec 2018 – Jun 2019 	| Private Tutor at LernQuadrat                	|
+| Apr 2017 – Feb 2018 	| Co-Founder at Grasslever                    	|
+| Jul 2014 – Sep 2014 	| Intern at pbc Kosova                        	|
 
 ## Education
-
-<div class="left">
-<p>Oct 2018 – June 2020</p>
-</div>
-<div class="right">
-<p>Technische Universität Wien Master's degree | Data Sciences</p>
-</div>
-
-<div class="left">
-<p>Oct 2014 – Dec 2017</p>
-</div>
-<div class="right">
-<p>Universiteti i Prishtinës "Hasan Prishtina"</p>
-<p>Bachelor's degree | Computer Engineering</p>
-<p>Faculty of Electrical Engineering and Computer Engineering. Conc. in Software Engineering</p>
-</div>
 
 Technische Universität Wien
 Master's degree | Data Sciences
