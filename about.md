@@ -6,14 +6,14 @@ permalink: /about/
 ## Experience
 
 <div class="row">
-    <div class="col-md-3">
-    Jul 2019 – Present
-    Vienna, Austria
-    </div>
-    <div class="col-md-9">
-	Siemens
-	Data Scientist - Working Student
-    </div>
+<div class="col-md-3">
+Jul 2019 – Present
+Vienna, Austria
+</div>
+<div class="col-md-9">
+Siemens
+Data Scientist - Working Student
+</div>
 </div>
 
 LernQuadrat
