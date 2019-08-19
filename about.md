@@ -6,11 +6,19 @@ permalink: /about/
 ## Experience
 
 <div class="row">
-<div class="col-md-8" markdown="1">
-Some text.
+<div class="col-md-6">
+``` liquid
+{% raw %}
+{% if page.title == 'About' %}
+page.title = {{ page.title }}
+{% endif %}
+{% endraw %}
+```
 </div>
-<div class="col-md-4" markdown="1">
-Some other text.
+<div class="col-md-6">
+{% if page.title == 'About' %}
+page.title = {{ page.title }}
+{% endif %}
 </div>
 </div>
 
