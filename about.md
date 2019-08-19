@@ -6,11 +6,11 @@ permalink: /about/
 ## Experience
 
 <div class="row">
-<div class="col-md-3">
+<div class="col-md-2">
 Jul 2019 – Present
 Vienna, Austria
 </div>
-<div class="col-md-9">
+<div class="col-md-8">
 Siemens
 Data Scientist - Working Student
 </div>
