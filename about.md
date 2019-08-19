@@ -6,39 +6,50 @@ permalink: /about/
 ## Experience
 
 <div class="left">
-<p>Jul 2019 – Present
-Vienna, Austria</p>
+<p>Jul 2019 – Present</p>
 </div>
 <div class="right">
-<p>Siemens
-Data Scientist - Working Student</p>
+<p>Data Scientist - Working Student at Siemens</p>
 </div>
 
 <div class="left">
-<p>Jul 2019 – Present</p>
-<p>Vienna, Austria</p>
+<p>Dec 2018 – June 2019</p>
 </div>
 <div class="right">
-<p>Siemens</p>
-<p>Data Scientist - Working Student</p>
+<p>Private Tutor at LernQuadrat</p>
 </div>
 
-LernQuadrat
-Private Tutor
-Dates Employed Dec 2018 – June 2019
-Location Vienna, Austria
+<div class="left">
+<p>Apr 2017 – Feb 2018</p>
+</div>
+<div class="right">
+<p>Co-Founder at Grasslever</p>
+</div>
 
-Grasslever
-Co-Founder
-Dates Employed Apr 2017 – Feb 2018
-Location Prishtina, Kosovo
-
-pbc kosova
-Intern
-Dates EmployedJul 2014 – Sep 2014
-Location Prishtina, Kosovo
+<div class="left">
+<p>Jul 2014 – Sep 2014</p>
+</div>
+<div class="right">
+<p>Intern at pbc Kosova</p>
+</div>
 
 ## Education
+
+<div class="left">
+<p>Oct 2018 – June 2020</p>
+</div>
+<div class="right">
+<p>Technische Universität Wien Master's degree | Data Sciences</p>
+</div>
+
+<div class="left">
+<p>Oct 2014 – Dec 2017</p>
+</div>
+<div class="right">
+<p>Universiteti i Prishtinës "Hasan Prishtina"</p>
+<p>Bachelor's degree | Computer Engineering</p>
+<p>Faculty of Electrical Engineering and Computer Engineering. Conc. in Software Engineering</p>
+</div>
 
 Technische Universität Wien
 Master's degree | Data Sciences
