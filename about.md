@@ -5,21 +5,13 @@ permalink: /about/
 ---
 ## Experience
 
-<div class="row">
-<div class="col-md-6">
-``` liquid
-{% raw %}
-{% if page.title == 'About' %}
-page.title = {{ page.title }}
-{% endif %}
-{% endraw %}
-```
+<div class="left">
+<p>Some explanation goes here</p>
+<p>Another example...</p>
 </div>
-<div class="col-md-6">
-{% if page.title == 'About' %}
-page.title = {{ page.title }}
-{% endif %}
-</div>
+<div class="right">
+<pre> // some code goes here </pre>
+<pre> // more example code goes here </pre>
 </div>
 
 <div class="row">
