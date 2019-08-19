@@ -12,86 +12,13 @@ permalink: /about/
 
 ## Education
 
-| Oct 2018 – Jun 2020                                   	| Technische Universität Wien                 	| Master's degree | Data Sciences          	|
-|-------------------------------------------------------	|---------------------------------------------	|------------------------------------------	|
-| Oct 2014 – Dec 2017                                   	| Universiteti i Prishtinës "Hasan Prishtina" 	| Bachelor's degree | Computer Engineering 	|
-| Norwegian University of Science and Technology (NTNU) 	| Bachelor's degree | Computer Engineering    	| Aug 2016 - Dec 2016                      	|
-
-
-| Oct 2018 – Jun 2020                                   	| Technische Universität Wien                 	| Master's degree | Data Sciences          	|                                    	|
-|-------------------------------------------------------	|---------------------------------------------	|------------------------------------------	|------------------------------------	|
-| Oct 2014 – Dec 2017                                   	| Universiteti i Prishtinës "Hasan Prishtina" 	| Bachelor's degree | Computer Engineering 	| Conc. in Software Engineering      	|
-| Norwegian University of Science and Technology (NTNU) 	| Bachelor's degree | Computer Engineering    	| Aug 2016 - Dec 2016                      	| Studied for one exchange semester. 	|
-
-Technische Universität Wien
-Master's degree | Data Sciences
-Dates attended or expected graduation 2018 – 2020
-
-Universiteti i Prishtinës "Hasan Prishtina"
-Bachelor's degree | Computer Engineering
-Dates attended 2014 – 2017
-Conc. in Software Engineering
-Faculty of Electrical Engineering and Computer Engineering
-
-Norwegian University of Science and Technology (NTNU)
-Bachelor's degree | Computer Engineering
-Dates attended 2016 – 2016
-Studied for one exchange semester.
+| Oct 2018 – Jun 2020 	| Technische Universität Wien                           	| M.Sc. Data Science         	|
+| Oct 2014 – Dec 2017 	| Universiteti i Prishtinës "Hasan Prishtina"           	| B.Sc. Computer Engineering 	|
+| Aug 2016 - Dec 2016 	| Norwegian University of Science and Technology (NTNU) 	| One exchange semester      	|
 
 ## Skills
 
-### Industry Knowledge
-
-Programming
-System Administration
-Algorithms
-Distributed Systems
-Data Analysis
-Data Visualization
-Machine Learning
-Data Mining
-Artificial Intelligence (AI)
-
-### Tools & Technologies
-R
-Java
-C#
-PHP
-MySQL
-Databases
-Git
-SQL
-Pandas (Software)
-Hadoop
-Scala
-Plotly
-Bash
-Jupyter
-PySpark
-PyTorch
-Tableau
-ggplot
-NoSQL
-Microsoft Azure
-Interpersonal Skills
-Critical Thinking
-Teamwork
-Creative Problem Solving
-
-### Other Skills  
-
-Data Engineering
-Apache Spark
-Scikit-Learn
-Neural Networks
-Deep Learning
-NumPy
-Query Optimization
-Dash by Plotly
-Social Network Analysis
-Matplotlib
-Graph Databases
-Amazon ML
-Google
-Scikit Learn
+| Programming                	| Python, SQL, PHP, Java, C#, R, Git                	|
+| High Performance Computing 	| Apache Spark, Hadoop, AWS, Amazon ML, Apache Hive 	|
+| Visualization              	| Plotly, matplotlib, ggplot, Tableau               	|
 
