@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Documenting my journey in becoming a Data Scientist through personal projects, articles and opinions.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gentrexha.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: "RexhaGent"
+twitter.username: "RexhaGent"
 github_username:  "gentrexha"
 google_analytics: "UA-131094415-1"
 

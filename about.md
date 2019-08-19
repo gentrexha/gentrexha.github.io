@@ -17,7 +17,7 @@ Location Vienna, Austria
 
 Grasslever
 Co-Founder
-Dates EmployedApr 2017 – Feb 2018
+Dates Employed Apr 2017 – Feb 2018
 Location Prishtina, Kosovo
 
 pbc kosova
