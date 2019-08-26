@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kosovo population by municipality from 1948 to 2018."
-date:   2019-08-25 00:00:00 +0100
+date:   2019-08-26 00:00:00 +0100
 categories: python visualization rprogramming kosovo population populationgrowth animation
 ---
 In this visualization you can see the population by municipality of the Republic of Kosovo from 1948 until 2018. The data isn't annual, therefore I've had to interpolate the data between years, which might not show big spikes of population migration.
@@ -12,6 +12,6 @@ This is the first time I've created a GIF visualization, and it's been harder th
 
 The reason I wanted to use R for the visualization part was because of the really useful library gganimate. But, for some weird reason gganimate wasn't working properly with the geom_polygon() function. Also the data on ASK was split by municipality and I had to merge everything by myself.
 
-Tools used: Python, R Programming Languange (ggplot) & https://ezgif.com/optimize
+Tools used: Python, R Programming Languange (ggplot) & [ezgif.com](https://ezgif.com/optimize)
 
-Source: Kosovo Agency of Statistics http://ask.rks-gov.net/en/kosovo-agency-of-statistics
+Source: [Kosovo Agency of Statistics](http://ask.rks-gov.net/en/kosovo-agency-of-statistics) 
