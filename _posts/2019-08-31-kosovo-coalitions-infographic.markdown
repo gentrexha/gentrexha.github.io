@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What would past elections look like with the new coalitions."
+title:  "What would past elections look like with the new coalitions"
 date:   2019-09-01 00:00:00 +0100
 categories: votes elections coalitions visualization rprogramming kosovo
 ---
