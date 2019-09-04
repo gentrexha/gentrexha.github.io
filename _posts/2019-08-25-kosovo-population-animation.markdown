@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kosovo population by municipality from 1948 to 2018."
+title:  "Kosovo population by municipality from 1948 to 2018"
 date:   2019-08-26 00:00:00 +0100
 categories: python visualization rprogramming kosovo population populationgrowth animation
 ---

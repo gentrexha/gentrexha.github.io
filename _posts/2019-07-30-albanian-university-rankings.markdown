@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ranking of higher education institutions in the whole Albanian area."
+title:  "Ranking of higher education institutions in the whole Albanian area"
 date:   2019-07-30 00:00:00 +0100
 categories: rankings visualization albania kosovo
 ---
