@@ -6,7 +6,7 @@ categories: genderequality kosovo university python r
 ---
 Recently I stumbled upon the post of Shqipdona, where she to summarize it, wasn't granted an academic position at the Faculty of Medicine despite supposedly being a 10.0 out of 10.0 average grade student (probably the best average ever). Read her full post here: https://www.facebook.com/shqipdona.lahu/posts/3148538701827437
 
-![Facebook activity infographic](https://raw.githubusercontent.com/gentrexha/gentrexha.github.io/master/assets/images/posts/academia-gender-quality.png)
+![Facebook activity infographic](https://raw.githubusercontent.com/gentrexha/gentrexha.github.io/master/assets/images/posts/academia-gender-equality.png)
 
 This got me thinking about the general gender equality in Kosovo's Academic sector in general, and I wanted to know some facts. I've gathered data about academic staff from all tertiary institutions in Kosovo and calculated the female % of each university's academic staff.
 
