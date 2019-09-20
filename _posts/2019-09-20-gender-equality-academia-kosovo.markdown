@@ -12,6 +12,8 @@ This got me thinking about the general gender equality in Kosovo's Academic sect
 
 And to say the least, the numbers are shocking. There's a 32.45% overall female % of academic staff average in Kosovo, ranging from 45.25% at College AAB and down to 11.52% at College Fama. On the other hand, a fact which is really interesting, is that the overall school enrollment of female students in Kosovo is 52.32% a trend, placing Kosovo's tertiary female % school enrollment in the **top 10** of the world according to [The World University Rankings](https://twitter.com/phil_baty/status/655304957827092481)!
 
+I mean obviously there are plenty of female students, but the data doesn't tell us why the higher they go up the academic ladder, the lower the number of female employees.
+
 Source: [Kosovo Agency of Statistics](http://ask.rks-gov.net/en/kosovo-agency-of-statistics)
 
 Tools: Python, R & plotly
