@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Gender equality in Kosovo's Academia"
+title:  "Gender diversity in Kosovo's Academia"
 date:   2019-09-21 00:00:00 +0100
-categories: genderequality kosovo university python r
+categories: genderdiversity kosovo university python r
 ---
 Recently I stumbled upon the post of Shqipdona, where she to summarize it, wasn't granted an academic position at the Faculty of Medicine despite supposedly being a 10.0 out of 10.0 average grade student (probably the best average ever). Read her full post here: https://www.facebook.com/shqipdona.lahu/posts/3148538701827437
 
