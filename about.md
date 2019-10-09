@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ## Experience
 
-| Jul 2019 – Present  	| Data Scientist (Working Student) at Siemens 	|
+| Jul 2019 – Present  	| Data Scientist at Siemens 					|
 | Dec 2018 – Jun 2019 	| Private Tutor at LernQuadrat                	|
 | Apr 2017 – Feb 2018 	| Co-Founder at Grasslever                    	|
 | Jul 2014 – Sep 2014 	| Intern at pbc Kosova                        	|
