@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Amount of daily new cases of COVID-19 split by municipality in Kosovo in the last 3 weeks."
+title:  "Amount of daily new cases of COVID-19 split by municipality in Kosovo in the last 3 weeks"
 date:   2020-07-10 00:00:00 +0100
 categories: kosovo covid19data visualisation
 ---
