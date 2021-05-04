@@ -6,3 +6,6 @@ vendor
 .sass-cache
 _site
 .jekyll-metadata
+
+# Ignore IDE dirs
+.idea
