@@ -8,13 +8,13 @@ This is my job search framework, the approach I follow every time I look for a n
 
 ## Mindset
 
-- Job finding is a long game. It's marathon, not a sprint. I've applied to 60+ jobs everytime I've looked for a new job in my career.
+- Job finding is a long game. It's a marathon, not a sprint. I've applied to 60+ jobs every time I've looked for a new job in my career.
 - When applying to new jobs, remember getting the first interview is the hardest step. Most people get filtered out here, because there are so many people applying and only very few getting interviews. There's a lot of information that is abstracted away on the company's side to make this possible.
 - Don't be shy to reach out multiple times to the same people. You have to think of you applying to jobs as a sales process. In sales you can't be shy and you always have to try 3 times. When you don't get a response the first time, remember people are busy, a message could've been put on todo and forgotten, timing wasn't right. That's why you remind them. Never take things personal.
 - Keep track of your applications and steps. Have meeting notes in them, questions you've asked, offer details, etc. I like to use Notion for this.
 - Schedule times for applying N jobs each day (3-5 for me usually), because if I start mass applying my quality of job applications goes down drastically. I start to care less and less and that shows on my applications.
 
-## General Prepration
+## General Preparation
 
 - Know your shit. You have to have a good technical foundation. These recommendations are specific to DS, but applies to all roles, have a basic understanding of the material that's going to be asked of you in interviews
 - For me, these two books have worked very well and I treat them like bibles during my job search, I read them every day multiple times through when I'm going through a new job application process:
@@ -23,15 +23,16 @@ This is my job search framework, the approach I follow every time I look for a n
 - They're high level concepts for basically 80% of all technical topics that can be asked in interviews. Read them, learn them, understand them. Keep rereading everything all the time during your interview process. It takes me roughly one week preparation to get through everything and be confident when going into interviews.
 - Having said that, initial interviews will always be worse early due to rustiness, apply to jobs you care less about first, if there's somewhere you really want to work at, delay the job application until you got a few interviews under your belt.
 - Have a 1 page resume, single column, ATS friendly, summary at the top, experience > skills > education order, bullet points for each thing you've achieved in a job describing what you did, how you did it, and what the result was in a data driven impact.
-    - There's tools on the internet that style your resume and give LLM feedback why it' not optimal and how to optimize.
+    - I use [ohmycv.app](https://ohmycv.app/) for generating and editing my resumes easily.
+    - There's tools on the internet that style your resume and give LLM feedback why it's not optimal and how to optimize.
     - I'd even suggest to get someone professional to review it. There's services from [levels.fyi](https://www.levels.fyi) and Fiverr to get some feedback if you don't have a lot of experience in writing them. Asking someone with more experience is a cheaper way to do this.
 
 ## Finding Jobs and Applying
 
 - Always personalize your resume to the job. THIS IS A MUST. DO NOT SKIP.
 - I use this n8n automation which scrapes the job description (JD) and personalizes my resume with skills and requirements from the JD.
-- I don't care about motivation letters will always leave unfilled.
-- Always apply through the job company first, don't use LinkedIn Easy Apply. Obviously if you can get a referrall do that first.
+- I don't care about motivation letters and will always leave them unfilled.
+- Always apply through the job company first, don't use LinkedIn Easy Apply. Obviously if you can get a referral do that first.
 - List of job portals I use:
     - https://cryptocurrencyjobs.co/?query=Data
     - https://cryptojobslist.com/data?sort=recent
@@ -56,14 +57,14 @@ This is my job search framework, the approach I follow every time I look for a n
 
 ## Interviewing
 
-Congrats! You've made the hardest step and gotten an interview. There's always a similar path that goes for these things: `HR/Recruiter -> 1-3 Technical/Architecture/Take Home -> Cultural Fit -> Offer`. Here a few tips that are valid before all interviews no matter which one and then we dive deeper into each.
+Congrats! You've made the hardest step and gotten an interview. There's always a similar path that goes for these things: `HR/Recruiter -> 1-3 Technical/Architecture/Take Home -> Cultural Fit -> Offer`. Here are a few tips that are valid before all interviews no matter which one and then we dive deeper into each.
 
 ### Before All Interviews
 
 #### Research and Understanding Company Problems
 
 - Research into the company, use their product if they have one, find out what they do, think about potential complex things they had to solve to get here, think about their revenue model, what do their customers look like, etc
-- Understand company values, you need to reflect that you align with their values in each interview, especially early on. Understand what their values and missions are and align with those and let me know you that share those values too.
+- Understand company values, you need to reflect that you align with their values in each interview, especially early on. Understand what their values and missions are and align with those and let them know that you share those values too.
 
 #### "Tell Me About Yourself"
 
@@ -74,26 +75,26 @@ Congrats! You've made the hardest step and gotten an interview. There's always a
 #### Salary Discussion
 
 - Please never give a number first.
-- You should always try to avoid doing so and say something along the lines: For me the most important thing is finding the right company and the right fit. I care about salary but the most important is finding the right company. Would you able to share a rough salary range you have for this position so we know if we're in the same ballpark?
-- I'd recommend always understanding their budget first, and not wasting time on interviews where these don't match. Obviously if you have nothing lined and using them as practice can be a good idea sometimes, but that depends on you.
+- You should always try to avoid doing so and say something along the lines: For me the most important thing is finding the right company and the right fit. I care about salary but the most important is finding the right company. Would you be able to share a rough salary range you have for this position so we know if we're in the same ballpark?
+- I'd recommend always understanding their budget first, and not wasting time on interviews where these don't match. Obviously if you have nothing lined up and using them as practice can be a good idea sometimes, but that depends on you.
 - Never give up the number first. You can always sell yourself short no matter how much you think you know your market value.
-- This means you do not start negotiating until you already have a Yes-If. (Yes-If we agree on terms.) This is a fantastic blog post who goes into all of this in much more detail: https://www.kalzumeus.com/2012/01/23/salary-negotiation/ and this for a high level list of rules: https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/
+- This means you do not start negotiating until you already have a Yes-If. (Yes-If we agree on terms.) This is a fantastic blog post that goes into all of this in much more detail: https://www.kalzumeus.com/2012/01/23/salary-negotiation/ and this for a high level list of rules: https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/
 
 #### Questions for Them
 
 - The interview isn't over. This is where you can differentiate yourself from other candidates. IMO never ask about benefits, salary, perks, working hours, etc. This is where you can shine by asking the right questions. Focus on selling yourself, the interview isn't over!
-- You should really spend some time into researching the company, possible DS problems the might be facing, if they have a product use it, and see what the customer journeys are. How data can help solve them? What data they might need or have had issues getting to the customer. Asking questions that show genuine understanding of their product and curiosity into what they're doing is the best way to differentiate yourself.
-- Less impressive alternative: Scrape the page, scrape the job description, put it to AI - tell me some questions that show I'm genuinly curious about the product.
+- You should really spend some time into researching the company, possible DS problems they might be facing, if they have a product use it, and see what the customer journeys are. How data can help solve them? What data they might need or have had issues getting to the customer. Asking questions that show genuine understanding of their product and curiosity into what they're doing is the best way to differentiate yourself.
+- Less impressive alternative: Scrape the page, scrape the job description, put it to AI - tell me some questions that show I'm genuinely curious about the product.
 - Other general questions you can ask about:
     - People want to talk about themselves. How did you get here? What did you do? Just let them talk.
-    - Top 3 challeenges the business is facing.
+    - Top 3 challenges the business is facing.
     - What would be a big win for the business this year.
 
 #### Notes and Follow-Up
 
 - Take notes during the call. It's very impressive to have someone take those manually. Just ask is it okay if I take notes.
 - But actually just use [local-ai-meetings](https://github.com/gentrexha/local-ai-meetings) for transcribing and summarizing your meetings locally and record everything from your device.
-- Send follow-up email within 4 hours referencing something personal from the call that you bonded over. Keep it short, succint, enthuastic. You can say: I really enjoyed our talk, really nice to learn about the company and X specific issue you're facing, thank you for this opportunity, I'm very grateful, looking forward to next steps"
-- This keeps you top of mind of the candidate and might even nudge them to a positive decision if they haven't your assesment yet. Do this for all interviews.
+- Send follow-up email within 4 hours referencing something personal from the call that you bonded over. Keep it short, succinct, enthusiastic. You can say: I really enjoyed our talk, really nice to learn about the company and X specific issue you're facing, thank you for this opportunity, I'm very grateful, looking forward to next steps
+- This keeps you top of mind and might even nudge them to a positive decision if they haven't made their assessment yet. Do this for all interviews.
 
 In Part 2, coming soon: a deeper dive into each interview round, from the HR/recruiter screen to the cultural fit.
