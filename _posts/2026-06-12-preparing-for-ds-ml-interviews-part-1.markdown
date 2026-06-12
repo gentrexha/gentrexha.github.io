@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Preparing for DS/ML Engineer Interviews, Part 1"
+title:  "High-Level Notes on DS/ML Job Hunting, Part 1"
 date:   2026-06-12 00:00:00 +0100
 categories: datascience machinelearning interviews career jobsearch
 ---
@@ -30,7 +30,7 @@ This is my job search framework, the approach I follow every time I look for a n
 ## Finding Jobs and Applying
 
 - Always personalize your resume to the job. THIS IS A MUST. DO NOT SKIP.
-- I use this n8n automation which scrapes the job description (JD) and personalizes my resume with skills and requirements from the JD.
+- I use this [n8n automation](https://gist.github.com/gentrexha/a761fb7b89224e7ec1cdc4b3bd041dc6) which scrapes the job description (JD) and personalizes my resume with skills and requirements from the JD.
 - I don't care about motivation letters and will always leave them unfilled.
 - Always apply through the job company first, don't use LinkedIn Easy Apply. Obviously if you can get a referral do that first.
 - List of job portals I use:
