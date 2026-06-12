@@ -34,15 +34,15 @@ This is my job search framework, the approach I follow every time I look for a n
 - I don't care about motivation letters and will always leave them unfilled.
 - Always apply through the job company first, don't use LinkedIn Easy Apply. Obviously if you can get a referral do that first.
 - List of job portals I use:
-    - https://cryptocurrencyjobs.co/?query=Data
-    - https://cryptojobslist.com/data?sort=recent
-    - https://hiring.cafe/
-    - https://web3.career/data-science-jobs
-    - https://wellfound.com/jobs
-    - https://aijobs.net/
-    - https://jobs.ams.at/public/emps/
-    - https://jobs.solana.com/jobs?q=data
-- Make use of recruiters! Reach out to recruiting companies and send them your resume. If you want to go the extra mile: https://www.reddit.com/r/RemoteJobseekers/comments/1fdpeg2/how_i_landed_multiple_remote_job_offers_my_remote/
+    - [cryptocurrencyjobs.co](https://cryptocurrencyjobs.co/?query=Data)
+    - [cryptojobslist.com](https://cryptojobslist.com/data?sort=recent)
+    - [hiring.cafe](https://hiring.cafe/)
+    - [web3.career](https://web3.career/data-science-jobs)
+    - [wellfound.com](https://wellfound.com/jobs)
+    - [aijobs.net](https://aijobs.net/)
+    - [jobs.ams.at](https://jobs.ams.at/public/emps/)
+    - [jobs.solana.com](https://jobs.solana.com/jobs?q=data)
+- Make use of recruiters! Reach out to recruiting companies and send them your resume. If you want to go the extra mile: [this r/RemoteJobseekers post](https://www.reddit.com/r/RemoteJobseekers/comments/1fdpeg2/how_i_landed_multiple_remote_job_offers_my_remote/)
 - SPEAK THEIR LANGUAGE. This is the most important step when personalizing resumes. Match your responsibilities, skills, technologies with the things they're looking for from the JD. Obviously don't lie blatantly saying you've worked with something that you have 0 knowledge/experience in, but for e.g.
     - If they mention supabase and you've worked postgres in the past, put Supabase on the Resume. A recruiter will leave you out of his selection because of this, because they don't know they're practically the same thing.
     - If they're looking for someone who 'solves problems consistently' write that you're a problem solver
